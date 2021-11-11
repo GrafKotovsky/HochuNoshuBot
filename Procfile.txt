@@ -1,0 +1,1 @@
+worker: python HNB_BOT.py
