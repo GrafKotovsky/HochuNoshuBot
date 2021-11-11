@@ -81,7 +81,7 @@ yt_tasks = None
 
 @dp.message_handler(commands=['start'])
 async def start(message: types.Message):
-    await bot.send_message(message.from_user.id, 'Привет! Выбери меню🐱', reply_markup=main_menu)
+    await bot.send_message(message.from_user.id, 'Привет! Выбери меню', reply_markup=main_menu)
 
 
 @dp.message_handler()
