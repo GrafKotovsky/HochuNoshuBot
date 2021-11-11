@@ -1,0 +1,9 @@
+aiogram==2.14.3
+aiohttp==3.7.4.post0
+heroku==0.1.4
+pip==21.2.4
+pyTelegramBotAPI==3.7.6
+requests==2.26.0
+telebot==0.0.4
+telegram==0.0.1
+tg-logger==3.1
